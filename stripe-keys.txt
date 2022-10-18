@@ -1,0 +1,6 @@
+eccomerce website payment stripe
+Publishable key:-
+pk_test_51Lo3qjSFIGYtpKKh1FcpYAA13oX4f1ze64IVqpHG6uVVkidUOGyNRil3d3HQpRvUW17xvSbrLFPF27vrmPs1jvXX001BZzYJb9 
+
+secret key :-
+sk_test_51Lo3qjSFIGYtpKKhWT2jlHzI3XW9NocZMPCPPMffZ8b5NUlun72oMPcGmIxJySkcU9RGinS8zgBScUuc17w3JHBJ00U96ZdO88
